@@ -1,0 +1,25 @@
+_repo: Kentaurenliebe-Die-Toteninsel-b-Zwei-antike-Novellen_73808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Voß, Richard
+    gutenberg_agent_id: '57226'
+    url: http://www.gutenberg.org/2009/agents/57226
+description: ''
+gutenberg_issued: '2024-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73808'
+language: de
+pgterms:marc905: 20180826005420vo
+pgterms:marc906: '1913'
+pgterms:marc907: de
+production_note: Alpo Tiilikka and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag von Philipp Reclam jun., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kentaurenliebe. Die Toteninsel : $b Zwei antike Novellen'
+url: http://www.gutenberg.org/ebooks/73808
